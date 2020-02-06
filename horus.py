@@ -1,4 +1,4 @@
-from tkinter import *
+from Tkinter import *
 
 def test_hw():
     mo=Toplevel(root)
